@@ -1,0 +1,3 @@
+	•	Phase 1: You generate a diverse population of agents (“instincts”).
+	•	Phase 2: You run a tournament where every agent faces every other agent multiple times, giving you a robust ranking.
+	•	Phase 3: You train a counter-agent specifically against the champion, testing it against the champion and other bots to ensure it actually works.
